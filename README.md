@@ -111,9 +111,6 @@ This comprehensive project journey provided insights into restaurant data, custo
 ---
 
 
-- [Arindam Paul](https://www.linkedin.com/in/arindam-paul-19a085187/)
+- [Prashant Raut]([https://www.linkedin.com/in/arindam-paul-19a085187/](https://www.linkedin.com/in/prashantraut55/))
 
 ---
-
-## Reference
- - [Cognifyz Technologies Data Science Internship](https://www.cognifyz.com/careers/career.html)
